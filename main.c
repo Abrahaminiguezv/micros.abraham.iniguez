@@ -19,7 +19,7 @@
 #define turnOffGreenLed	setPortB(19)
 #define turnOnBlueLed	clearPortD(1)
 #define turnOffBlueLed	setPortD(1)
-
+#define turnOffazulLed	setPortD(1)
 //Time
 #define	n1sec			2000000  
 #define	n2sec			4000000
